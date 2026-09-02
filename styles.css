@@ -32,7 +32,7 @@ a {
 
 .hero {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     background: #1F2937;
     padding: 60px;
@@ -68,4 +68,10 @@ img {
     width: 100%;
 }
 
+footer {
+    text-align: center;
+    background-color: #303c51;
+    color: #d8e1ee;
+    padding: 15px;
+}
 
