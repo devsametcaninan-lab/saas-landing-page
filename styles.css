@@ -7,7 +7,7 @@ header {
     display: flex;
     align-items: center;
     justify-content: space-around;
-    background: #070A0F;
+    background: #303c51;
     padding: 20px;
 }
 
@@ -29,3 +29,43 @@ a {
     color: #F5F7FA;
     text-decoration: none;
 }
+
+.hero {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background: #1F2937;
+    padding: 60px;
+}
+
+h1 {
+    color: #F5F7FA;
+    font-size: 60px;
+    padding: 20px;
+}
+
+p {
+    color: #d8e1ee;
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 12px;
+}
+
+button {
+    border: 2px solid #F5F7FA;
+    font-size: 15px;
+    background-color: #303c51;
+    color: #F5F7FA;
+    padding: 8px;
+    cursor: pointer;
+}
+
+.sag {
+    width: 45%;
+}
+
+img {
+    width: 100%;
+}
+
+
